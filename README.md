@@ -1,15 +1,15 @@
-# 🎮 Retro Gaming Fest
+#  Retro Gaming Fest
 
 Landing page desarrollada como proyecto académico para representar un festival dedicado a los videojuegos retro, arcades y cultura gamer.
 
 El proyecto fue construido a partir de wireframes realizados manualmente y posteriormente transformado en una interfaz web responsive utilizando React, Vite y Tailwind CSS.
 
-🌐 **Sitio web:**  
+ **Sitio web:**  
 https://juandavid1612.github.io/Taller-2-dis_adaptable/
 
 ---
 
-## 📌 Descripción del proyecto
+##  Descripción del proyecto
 
 **Retro Gaming Fest** es una landing page conceptual para un festival de videojuegos clásicos.
 
@@ -27,7 +27,7 @@ La página busca transmitir una estética inspirada en los arcades clásicos y l
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 
 El proyecto fue desarrollado con los siguientes objetivos:
 
@@ -42,7 +42,7 @@ El proyecto fue desarrollado con los siguientes objetivos:
 
 ---
 
-## 🧩 Estructura de la página
+##  Estructura de la página
 
 La landing page está dividida en cinco secciones principales, además de un header y un footer.
 
@@ -151,7 +151,7 @@ También se implementó un efecto de desplazamiento suave entre secciones.
 
 ---
 
-## 🦶 Footer
+##  Footer
 
 El footer contiene:
 
@@ -240,7 +240,7 @@ La versión desplegada puede visitarse en:
 
 ---
 
-# 📁 Estructura del proyecto
+#  Estructura del proyecto
 
 La estructura principal del proyecto es:
 
